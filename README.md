@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋
+## Welcome
 
-<!--
-**Ali-mehdizadeh73/Ali-mehdizadeh73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+I am Ali Mehdizadeh,             
+an enthusiastic developer with a special interest in front-end development.
+currently fluent in JavaScript and React and am learning.
 
-Here are some ideas to get you started:
+### Projects
+- [Project 2](https://github.com/Ali-mehdizadeh73/Camping-Web): Brief description.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- HTML
+- CSS
+- JAvaScript
+- React
+- Tailwind css
+- UI/UX Designer
+- Responsive Web Designer
+
+### Contact
+- Email: [My-email: mehdizadehali73@gmail.com](mehdizadehali73@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ali-mehdizadeh-40548a315/)
