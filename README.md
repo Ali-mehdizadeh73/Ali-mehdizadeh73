@@ -1,5 +1,5 @@
 ## 👋 Hello, World! Im Ali
-Frontend Developer | React Enthusiast ⚛️
+## Frontend Developer | React Enthusiast ⚛️
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![Profile](https://komarev.com/ghpvc/?username=thelius1&label=Profile%20views&color=0e75b6&style=flat)
 
