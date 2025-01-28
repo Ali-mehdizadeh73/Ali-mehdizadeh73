@@ -1,7 +1,7 @@
 ## 👋 Hello, World! im Ali
 ##
-![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif…]()
-
+![Profile](https://komarev.com/ghpvc/?username=thelius1&label=Profile%20views&color=0e75b6&style=flat)
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Introduction
 I am Ali Mehdizadeh,             
 an enthusiastic developer with a special interest in front-end development.
