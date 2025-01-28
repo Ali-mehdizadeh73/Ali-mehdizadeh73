@@ -1,8 +1,8 @@
-## Hi 👋
-## Welcome
+## 👋 Hello, World! im Ali
+##
+![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif…]()
 
 ### Introduction
-img[(https://camo.githubusercontent.com/a0228ab711a3e7488ea32d811dbc85d637f5ead8a12d78e38c5a415453b6fdac/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468656c69757331266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)]
 I am Ali Mehdizadeh,             
 an enthusiastic developer with a special interest in front-end development.
 currently fluent in JavaScript and React and am learning.
