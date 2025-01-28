@@ -11,9 +11,9 @@ A passionate front-end developer dedicated to creating visually appealing user i
 - [Project 2](https://github.com/Ali-mehdizadeh73/Camping-Web): Brief description.
 
 ## 🛠️ Tech Skill
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) -![CSS](https://img.icons8.com/color/48/000000/css3.png) -![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 - Tailwind CSS
 - UI/UX Designer
 - Responsive Web Designer
