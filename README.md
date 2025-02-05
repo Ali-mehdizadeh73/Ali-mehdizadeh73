@@ -16,5 +16,5 @@ A passionate front-end developer dedicated to creating visually appealing user i
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 - Tailwind CSS - UI/UX Designer - Responsive Web Designer
 ### Contact
-- Email: [My-email: mehdizadehali73@gmail.com](mehdizadehali73@gmail.com)
+- Email: [:mehdizadehali73@gmail.com](mehdizadehali73@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ali-mehdizadeh-40548a315/)
