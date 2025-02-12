@@ -9,6 +9,7 @@ A passionate front-end developer dedicated to creating visually appealing user i
 
 ### Projects
 - [Camping Web](https://github.com/Ali-mehdizadeh73/Camping-Web): Brief description.
+- [Shopping-Cart](https://github.com/Ali-mehdizadeh73/Shopping-Cart): Brief description.
 
 ## 🛠️ Tech Skill
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
