@@ -16,7 +16,7 @@ A passionate front-end developer dedicated to creating visually appealing user i
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-- Tailwind CSS - UI/UX Designer - Responsive Web Designer
+- Tailwind CSS - UI/UX Designer - Responsive Web Designer - ReactBootstrap
 ### Contact
 - Email: [:mehdizadehali73@gmail.com](mehdizadehali73@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ali-mehdizadeh-40548a315/)
