@@ -9,7 +9,7 @@ A passionate front-end developer dedicated to creating visually appealing user i
 
 ### Projects
 - [Camping Web](https://github.com/Ali-mehdizadeh73/Camping-Web)
-- [Shopping-Cart](https://github.com/Ali-mehdizadeh73/Shopping-Cart)
+- [Shopping-Cart](https://github.com/Ali-mehdizadeh73/Shopping-Cart)  
 - [Task-manager](https://github.com/Ali-mehdizadeh73/task-manager)
 - [BookLIst](https://github.com/Ali-mehdizadeh73/BookList)
 
